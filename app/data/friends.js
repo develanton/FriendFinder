@@ -1,1 +1,4 @@
-s
+myArr =[];
+
+
+module.exports = myArr;
